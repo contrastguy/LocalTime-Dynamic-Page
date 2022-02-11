@@ -1,2 +1,3 @@
 # JavaScript
-Projetos que envolvam a linguagem de programação : JavaScript
+Site que mostra uma foto diferente ao longo da mudança do horário
+
